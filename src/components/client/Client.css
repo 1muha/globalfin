@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.right11 {
+    margin-left: 6%;
+}
+
+.ever {
+    font-family: sans-serif;
+    color: #919191;
+    font-weight: 500;
+    width: 600px;
+    margin-left: 6%;
+    margin-top: 1%;
+}
+
+.comme {
+    margin-top: 3%;
+}
+
+.javen {
+    font-family: sans-serif;
+    color: #FF614E;
+    font-size: 20px;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+
+.commes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
